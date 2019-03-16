@@ -578,7 +578,7 @@
       "resolve": "/Users/crystalbarragan/GitHub/gatsby-test",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "0c065790de16f690a710ceaa6f4fa4aa",
+      "version": "0f3795a89aa986486ac1003612fc1938",
       "pluginOptions": {
         "plugins": []
       },
@@ -587,13 +587,13 @@
       "ssrAPIs": [],
       "pluginFilepath": "/Users/crystalbarragan/GitHub/gatsby-test",
       "packageJson": {
-        "name": "gatsby-starter-default",
-        "description": "Gatsby default starter",
+        "name": "gatsby-test",
+        "description": "Gatsby test site",
         "version": "1.0.0",
         "keywords": [
           "gatsby"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": "Crystal",
         "license": "MIT",
         "dependencies": [
           {
@@ -639,6 +639,10 @@
         ],
         "devDependencies": [
           {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
             "name": "prettier",
             "version": "^1.14.2"
           }
@@ -650,7 +654,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "330ef0090a2f0664a79176180b19653c",
+        "contentDigest": "b257fd23dc35942eae163d03dfa32041",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -764,14 +768,14 @@
         "author": "Crystal Barragan",
         "description": "A personal portfolio website."
       },
-      "pathPrefix": "",
+      "pathPrefix": "/gatsby-test",
       "polyfill": true,
-      "buildTime": "2019-03-16T04:05:44.475Z",
+      "buildTime": "2019-03-16T04:15:49.844Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ae32e8667551fdf3f4d79c2d14741ed5",
+        "contentDigest": "baf632c920c9b6ae96b82ffa7d2bcb3e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -859,7 +863,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "eb25003f131568a189ae32d5d6d032ca"
+    "PLUGINS_HASH": "b28f40b3899d290af27301fb5737c85d"
   },
   "componentDataDependencies": {
     "nodes": {},
